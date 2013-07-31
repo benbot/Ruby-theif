@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Running Game"
+ruby bin/run.rb
